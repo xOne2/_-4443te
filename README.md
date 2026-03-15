@@ -2,7 +2,7 @@ Library = {}
 SaveTheme = {}
 
 local themes = {
-	index = {'Dark', 'Amethyst'},
+	index = {'Dark', 'Amethyst', 'Wishx'},
 	Amethyst = {
 		['Shadow'] = Color3.fromRGB(24, 24, 31),
 		['Background'] = Color3.fromRGB(29, 28, 38),
@@ -155,7 +155,7 @@ local themes = {
 			}
 		}
 	},
-  Wish x = {
+  Wishx = {
 	['Shadow'] = Color3.fromRGB(10, 18, 30),
 	['Background'] = Color3.fromRGB(15, 25, 40),
 	['Page'] = Color3.fromRGB(12, 22, 35),
@@ -250,7 +250,7 @@ local themes = {
 			}
 		}
 	}
-},
+}
 }
 
 local ScreenGui = Instance.new("ScreenGui")
