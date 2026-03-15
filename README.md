@@ -247,10 +247,11 @@ local themes = {
 			['Color Select'] = {
 				['Background'] = Color3.fromRGB(12, 22, 35),
 				['UIStroke'] = Color3.fromRGB(0, 170, 255),
+				}
 			}
 		}
-	}
-},
+	},
+}
 
 local ScreenGui = Instance.new("ScreenGui")
 ScreenGui.Name = "Dummy Kawaii"
