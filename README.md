@@ -251,7 +251,6 @@ local themes = {
 		}
 	}
 }
-}
 
 local ScreenGui = Instance.new("ScreenGui")
 ScreenGui.Name = "Dummy Kawaii"
